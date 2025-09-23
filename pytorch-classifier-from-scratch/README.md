@@ -8,6 +8,9 @@ It demonstrates how to build a neural network **from scratch** without relying o
 ## 🚀 Features
 - Custom **Dataset & DataLoader** implementation  
 - Fully connected neural network (MLP) with ReLU activations  
+- Dropout for regularization
+- Batch Normalization for stable and faster training
+- Weight Decay (L2 regularization) to reduce overfitting
 - Training loop with **SGD optimizer** and **CrossEntropyLoss**  
 - Data preprocessing (normalization, train-test split)  
 - Easily extendable for other classification tasks  
