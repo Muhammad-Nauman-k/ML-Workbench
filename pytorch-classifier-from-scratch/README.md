@@ -1,6 +1,6 @@
 # PyTorch Classifier from Scratch
 
-This project implements a simple **feedforward neural network (Multi-Layer Perceptron)** using **PyTorch** to classify the Fashion-MNIST dataset (or any dataset in CSV format).  
+This project implements a simple **feedforward neural network (Multi-Layer Perceptron)** using **PyTorch** to classify the Fashion-MNIST dataset (or any dataset in CSV format) and achieves ~88.5% test accuracy.  
 It demonstrates how to build a neural network **from scratch** without relying on high-level training abstractions.
 
 ---
