@@ -19,6 +19,9 @@ The model reaches around **91% test accuracy** and demonstrates how to build and
 - Easily modifiable for other image classification datasets  
 
 ---
+##  Installation dependencies
+
+pip install -r requirements.txt
 
 ##  Installation
 
@@ -26,9 +29,3 @@ Clone the repository:
 ```bash
 git clone https://github.com/your-username/pytorch-cnn-from-scratch.git
 cd pytorch-cnn-from-scratch
-
-
-##  Installation dependencies
-
-pip install -r requirements.txt
-
