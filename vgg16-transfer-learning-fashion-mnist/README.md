@@ -29,7 +29,6 @@ The trained model reaches about **92.7% validation accuracy**.
 
 - `transfer_learning.ipynb` - Full training notebook (transfer learning + evaluation + model export)
 - `Test_vgg16_trained.py` - Loads the trained model and predicts the class of an input image
-- `vgg16_fashion_mnist_full.pth` - Exported trained model (~156 MB)
 - `requirements.txt` - Project dependencies
 - `README.md` - Project documentation
 
