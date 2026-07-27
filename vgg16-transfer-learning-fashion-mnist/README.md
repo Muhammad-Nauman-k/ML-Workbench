@@ -21,7 +21,7 @@ The trained model reaches about **92.7% validation accuracy**.
 - Training with **Adam** optimizer and **CrossEntropyLoss**
 - Automatic GPU support when CUDA is available
 - Exported full model for inference
-- Separate prediction script for custom images
+- Separate prediction script for custom  images
 
 ---
 
